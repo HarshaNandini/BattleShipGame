@@ -1,3 +1,3 @@
 # BattleShipGame
 
-Preview: ![https://harshanandini.github.io/BattleShipGame/](Click here)
+Preview: ![Click here to play!](https://harshanandini.github.io/BattleShipGame/)
